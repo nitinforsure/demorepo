@@ -18,3 +18,9 @@ step 5- use git add . command line to add the file <br>
 step 6- use git commit -m "xyz" command line to commit the file <br>
 step 7- use git push origin main ,command line to push the local file to git repository <br>
 step 8- exit <br>
+# some extra commands to remeber
+1. ls- used to print the items inside the folder <br>
+2. git status- to check the status of file <br>
+3. pwd - to print the current directory <br>
+4. cd- to change the directory <br>
+5. clear- to clear the terminal window <br>
