@@ -39,3 +39,7 @@ git checkout branch_name
 
 # Shortcut for creating and switching
 git checkout -b branch_name
+# most imp thing to keep in mind while  traversing the branch 
+to be care full about which branch you are currently in
+1. you cannot delete a branch while being in the same branch.
+2. you cannot make change in branch1 while being currently in branch2
