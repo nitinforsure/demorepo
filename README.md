@@ -11,7 +11,7 @@ js<br>
 git and github <br>
 # how to add commit and push the local file
 step 1- clone the repository from github profile <br>
-step 2- use cd <filename> command to change the folder in vs code using terminal <br>
+step 2- use cd .. to come out from present directory and then cd <filename> command to change the folder in vs code using terminal <br>
 step 3- edit the file according to your need <br>
 step 4- press ctrl+s to save the changes
 step 5- use git add . command line to add the file <br>
