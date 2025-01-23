@@ -24,3 +24,18 @@ step 8- exit <br>
 3. pwd - to print the current directory <br>
 4. cd- to change the directory <br>
 5. clear- to clear the terminal window <br>
+6. Use ls -Force --ensures that hidden files (like .git) and system files are displayed.
+# how to create a new folder/git repo using terminal
+1. create a new file inside the desired directory
+2. then add commit and push the file 
+
+# branching 
+1. A branch is essentially a separate copy of your codebase. It allows you to make changes, test features, or fix bugs independently of the main project. The default branch in GitHub is usually called main (or sometimes master).
+# Create a new branch
+git branch branch_name
+
+# Switch to the new branch
+git checkout branch_name
+
+# Shortcut for creating and switching
+git checkout -b branch_name
